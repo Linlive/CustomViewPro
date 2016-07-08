@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="visible_count" format="integer"/>
+    <attr name="triangleHeight" format="integer"/>
+
+    <declare-styleable name="MyPagerIndicator">
+        <attr name="visible_count"/>
+        <attr name="triangleHeight"/>
+    </declare-styleable>
+</resources>
